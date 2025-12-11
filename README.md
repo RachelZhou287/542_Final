@@ -12,7 +12,7 @@
 # 2 Datasets
 
 * Caltech Bird (CUB) -- 3 stage fine tuning, under folder `comparision experiment`
-* MNIST_FASHION
+* MNIST_FASHION -- fixed lr, under folder `comparision experiment`
 
 
 
