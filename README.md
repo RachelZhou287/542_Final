@@ -1,8 +1,7 @@
 # Overview
 
-`comparision experiment`: Model training, the logistics of ResNet and Standard CNN in comparision experiment is the same as the Bilinear CNN under folder `BilinearCNN`
-
-`ResNet`,`Baseline CNN`: Model building
+- `comparision experiment`: Model training, the logistics of ResNet and Standard CNN in comparision experiment is the same as the training logistics as Bilinear CNN under folder `Bilinear_CNN`
+- `ResNet`,`Baseline CNN`: Model building
 
 # 2 Algorithms
 
